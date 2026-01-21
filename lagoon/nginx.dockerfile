@@ -1,4 +1,4 @@
-FROM ghcr.io/amazeelabs/private-gpt/nginx:latest
+FROM ghcr.io/amazeeio/private-gpt/nginx:latest
 
 
 ARG LAGOON_ENVIRONMENT

@@ -1,4 +1,4 @@
-FROM ghcr.io/amazeelabs/private-gpt/postgrespgvector:latest
+FROM ghcr.io/amazeeio/private-gpt/postgrespgvector:latest
 
 
 ARG LAGOON_ENVIRONMENT
