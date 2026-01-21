@@ -1,4 +1,4 @@
-FROM ghcr.io/amazeelabs/private-gpt/chat:latest
+FROM ghcr.io/amazeeio/private-gpt/chat:latest
 
 ARG LAGOON_ENVIRONMENT
 ARG LAGOON_PROJECT
